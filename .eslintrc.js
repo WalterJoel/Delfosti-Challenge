@@ -16,6 +16,6 @@ module.exports = {
 		'@typescript-eslint/explicit-module-boundary-types': 'off',
 		'@typescript-eslint/no-explicit-any': 'off',
 		'@typescript-eslint/strict-boolean-expressions': 'off',
-		'@typescript-eslint/restrict-plus-operands': 'off'
+		'@typescript-eslint/restrict-plus-operands': 'off',
 	},
 };
